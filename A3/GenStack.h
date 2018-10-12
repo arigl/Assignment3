@@ -15,8 +15,6 @@ using namespace std;
 
 template <class T>
 class GenStack {
-    private:
-
     public:
         GenStack(int maxSize); //Constructor
         ~GenStack(); //Destructor
